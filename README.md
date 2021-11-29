@@ -7,3 +7,5 @@ This web application reads JSON data of bacteria found in the belly button for m
 <img src="Images/gaugeplot.png">
 <br>
 <img src="Images/bubbleplot.png">
+<br>
+View the interactive webpage <a href="https://dmccullor.github.io/plotlydiploy/">here</a>
